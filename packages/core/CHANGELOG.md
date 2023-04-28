@@ -44,6 +44,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.6.0](https://github.com/linz/cotar/compare/core-v5.5.0...core-v5.6.0) (2023-04-28)
+
+
+### Features
+
+* **core:** increase the default packing factor from 115% to 120% to reduce hash searches ([#367](https://github.com/linz/cotar/issues/367)) ([e34c9c3](https://github.com/linz/cotar/commit/e34c9c3464b0e4e46bbe5ef95ef5e12185b66d20))
+* switch to node-next modules to catch missing ".js" extensions ([#428](https://github.com/linz/cotar/issues/428)) ([e598397](https://github.com/linz/cotar/commit/e598397742064eb539c9e73b43cefc6c925713fd))
+
 ## [5.5.0](https://github.com/linz/cotar/compare/core-v5.4.0...core-v5.5.0) (2022-11-15)
 
 

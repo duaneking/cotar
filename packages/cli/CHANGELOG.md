@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.7.0](https://github.com/linz/cotar/compare/cli-v5.6.0...cli-v5.7.0) (2023-04-28)
+
+
+### Features
+
+* switch to node-next modules to catch missing ".js" extensions ([#428](https://github.com/linz/cotar/issues/428)) ([e598397](https://github.com/linz/cotar/commit/e598397742064eb539c9e73b43cefc6c925713fd))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cotar/core bumped from ^5.5.0 to ^5.6.0
+
 ## [5.6.0](https://github.com/linz/cotar/compare/cli-v5.5.0...cli-v5.6.0) (2022-11-16)
 
 
